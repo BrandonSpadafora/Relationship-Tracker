@@ -1,5 +1,7 @@
 # Relationship-Tracker
-https://relationship-tracker-h2xs5tknejbbyvbd6szcgn.streamlit.app/
+https://relationship-tracker.streamlit.app/
+
+
 
 ## Overview
 The Streamlit Relationship Tracker is a web application that allows me to track and visualize the duration of my relationship with my partner. It displays how long we've been dating in days, weeks, months, and years, and it also counts down to our next anniversary.
